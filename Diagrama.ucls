@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <enumeration id="1" language="java" name="org.iesalandalus.programacion.peonajedrez.ColorTest.Color" 
-    project="PeonAjedrez" file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/ColorTest.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="279" y="114"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </enumeration>  
-  <enumeration id="2" language="java" name="org.iesalandalus.programacion.peonajedrez.DireccionTest.Direccion" 
-    project="PeonAjedrez" file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/DireccionTest.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="552" y="116"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </enumeration>  
-  <class id="3" language="java" name="org.iesalandalus.programacion.peonajedrez.PosicionPeon.Posicion" 
+  <class id="1" language="java" name="org.iesalandalus.programacion.peonajedrez.PosicionPeon.Posicion" 
     project="PeonAjedrez" file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/PosicionPeon.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="813" y="119"/>    
@@ -31,20 +11,20 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="org.iesalandalus.programacion.peonajedrez.Peon" project="PeonAjedrez" 
-    file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/Peon.java" binary="false" 
+  <enumeration id="2" language="java" name="org.iesalandalus.programacion.peonajedrez.Color" project="PeonAjedrez" 
+    file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/Color.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="160" y="260"/>    
+    <position height="117" width="188" x="80" y="113"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
-  </class>  
-  <enumeration id="5" language="java" name="org.iesalandalus.programacion.peonajedrez.Color" project="PeonAjedrez" 
-    file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/Color.java" binary="false" 
+  </enumeration>  
+  <enumeration id="3" language="java" name="org.iesalandalus.programacion.peonajedrez.Direccion" project="PeonAjedrez" 
+    file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/Direccion.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="81" width="188" x="314" y="211"/>    
+    <position height="-1" width="-1" x="382" y="174"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
