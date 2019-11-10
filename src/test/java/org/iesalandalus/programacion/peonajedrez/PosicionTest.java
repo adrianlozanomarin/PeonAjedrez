@@ -9,6 +9,24 @@ import static org.hamcrest.CoreMatchers.*;
 import org.junit.Test;
 
 public class PosicionTest {
+		
+	public class Posicion {
+
+		private int fila;
+		private char columna;
+
+		public int getFila() {
+			return fila;
+		}
+		private void setFila(int fila) {
+			this.fila = fila;
+		}
+		public char getColumna() {
+			return columna;
+		}
+		private void setColumna(char columna) {
+			this.columna = columna;
+		}
 
 	private static final String CADENA_NO_ESPERADA = "La cadena devuelta no es la esperada.";
 	private static final String POSICION_NO_ESPERADA = "La posición copiada debería ser la misma que la pasada como parámetro.";
