@@ -31,6 +31,26 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+  <class id="4" language="java" name="org.iesalandalus.programacion.peonajedrez.Peon" project="PeonAjedrez" 
+    file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/Peon.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="160" y="260"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="5" language="java" name="org.iesalandalus.programacion.peonajedrez.Color" project="PeonAjedrez" 
+    file="/PeonAjedrez/src/test/java/org/iesalandalus/programacion/peonajedrez/Color.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="188" x="314" y="211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
     <attributes public="true" package="true" protected="true" private="true" static="true"/>    
