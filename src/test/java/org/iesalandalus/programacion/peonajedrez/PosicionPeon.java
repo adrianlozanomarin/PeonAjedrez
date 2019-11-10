@@ -19,6 +19,11 @@ public class PosicionPeon {
 		private void setColumna(char columna) {
 			this.columna = columna;
 		}
+		public Posicion(int fila, char columna) {
+			super();
 
+			this.fila = fila;
+			this.columna = columna;
+		}
 	}
 }
