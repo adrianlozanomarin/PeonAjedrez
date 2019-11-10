@@ -13,4 +13,16 @@ public class DireccionTest {
 	public enum Direccion {
 		IZQUIERDA, DERECHA;
 	}
+
+	@Test
+	public void cuandoSeAsignaValorAUnaDireccionSuNombreEsCorrecto() {
+		//Pasará el test si hemos nombrado bien todas las direcciones
+		Direccion direccion;
+		direccion = Direccion.IZQUIERDA;
+		assertThat(direccion, is(Direccion.IZQUIERDA));
+		direccion = Direccion.DERECHA;
+		assertThat(direccion, is(Direccion.DERECHA));
+	}
+
 }
+
